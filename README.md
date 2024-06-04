@@ -48,127 +48,128 @@
 ## Quotes
 
 - Nikola Tesla
-  - If you want to find the secrets of the universe, think in terms of energy, frequency and vibration. <br> ![](https://www.azquotes.com/vangogh-image-quotes/43/76/Quotation-Nikola-Tesla-If-you-want-to-find-the-secrets-of-the-universe-43-76-81.jpg)
+  - If you want to find the secrets of the universe, think in terms of energy, frequency and vibration. <br> ![](images/tesla-quote.jpeg)
 - Michael Jordan
-  - I've missed more than 9000 shots in my career. I've lost almost 300 games. 26 times, I've been trusted to take the game winning shot and missed. I've failed over and over and over again in my life. And that is why I succeed. <br> ![](https://www.azquotes.com/picture-quotes/quote-i-ve-missed-more-than-9000-shots-in-my-career-i-ve-lost-almost-300-games-26-times-i-michael-jordan-15-6-0618.jpg)
+  - I've missed more than 9000 shots in my career. I've lost almost 300 games. 26 times, I've been trusted to take the game winning shot and missed. I've failed over and over and over again in my life. And that is why I succeed. <br> ![jordan-shots-quote](images/jordan-shots-quote.jpeg)
+
 - Thomas Alva Edison
-  - I have not failed. I've just found 10,000 ways that won't work. <br> ![](https://addicted2success.com/wp-content/uploads/2016/01/Thomas-Edison1.jpg)
+  - I have not failed. I've just found 10,000 ways that won't work. <br> ![](images/edison-quote.jpeg)
 - Will Smith
-  - The only thing that I see that is distinctly different about me is I'm not afraid to die on a treadmill. I will not be out-worked, period. You might have more talent than me, you might be smarter than me, you might be sexier than me, you might be all of those things you got it on me in nine categories. But if we get on the treadmill together, there's two things: You're getting off first, or I'm going to die. It's really that simple, right? <br> ![](https://image.slidesharecdn.com/pppt-willsmith-140925035833-phpapp01/95/will-smith-quotes-9-638.jpg?cb=1411617693)
+  - The only thing that I see that is distinctly different about me is I'm not afraid to die on a treadmill. I will not be out-worked, period. You might have more talent than me, you might be smarter than me, you might be sexier than me, you might be all of those things you got it on me in nine categories. But if we get on the treadmill together, there's two things: You're getting off first, or I'm going to die. It's really that simple, right? <br> ![](images/smith-quote.webp)
 - Steven Furtick
-  - The reason we struggle with insecurity is because we compare our behind-the-scenes with everyone else's highlight reel. <br> ![](https://www.azquotes.com/picture-quotes/quote-the-reason-why-we-struggle-with-insecurity-is-because-we-compare-our-behind-the-scenes-steven-furtick-53-16-87.jpg)
+  - The reason we struggle with insecurity is because we compare our behind-the-scenes with everyone else's highlight reel. <br> ![](images/furtick-quote.jpeg)
 - Steve Jobs
-  - Sometimes life is going to hit you in the head with a brick. Don't lose faith <br> ![](https://www.netizenshouse.com/wp-content/uploads/2018/11/stevejobsmostinspiringquotes.jpg)
+  - Sometimes life is going to hit you in the head with a brick. Don't lose faith <br> ![](images/jobbs-quote.jpeg)
 - Dr. Seuss
-  - Sometimes the questions are complicated and the answers are simple. <br> ![](https://www.azquotes.com/picture-quotes/quote-sometimes-the-questions-are-complicated-and-the-answers-are-simple-dr-seuss-34-53-98.jpg)
+  - Sometimes the questions are complicated and the answers are simple. <br> ![](images/seuss-quote.jpeg)
 - John Henry Newman
-  - To live is to change, and to be perfect is to have changed often. <br> ![](https://www.azquotes.com/picture-quotes/quote-to-live-is-to-change-and-to-be-perfect-is-to-have-changed-often-john-henry-newman-21-34-43.jpg)
+  - To live is to change, and to be perfect is to have changed often. <br> ![](images/newman-quote.jpeg)
 - Rabindranath Tagore
-  - You can't cross the sea merely by standing and staring at the water. <br> ![](https://www.azquotes.com/picture-quotes/quote-you-can-t-cross-the-sea-merely-by-standing-and-staring-at-the-water-rabindranath-tagore-28-97-81.jpg)
+  - You can't cross the sea merely by standing and staring at the water. <br> ![](images/tagore-quote.jpeg)
 - George Bernard Shaw
-  -  Life isn't about finding yourself. Life is about creating yourself. <br> ![](https://www.azquotes.com/picture-quotes/quote-life-isn-t-about-finding-yourself-life-is-about-creating-yourself-george-bernard-shaw-26-83-56.jpg)
+  -  Life isn't about finding yourself. Life is about creating yourself. <br> ![](images/shaw-quote.jpeg)
 - Sadhguru
-  - If you resist change, you resist life. <br> ![](https://www.quotes.pics/i/quotes-pictures/10/246-sadhguru-resisting-change-change-ah.jpg)
+  - If you resist change, you resist life. <br> ![](images/sadhguru-quote.jpeg)
 - Osho
-  - You feel good, you feel bad, and these feelings are bubbling from your own unconsciousness, from your own past. Nobody is responsible except you. Nobody can make you angry, and nobody can make you happy. <br> ![](https://3.bp.blogspot.com/--ron0U6trh8/VicxLAdWDxI/AAAAAAAAbOw/yuHzh9l1ruY/s1600/DailythoughtFeelgoodbad.png)
+  - You feel good, you feel bad, and these feelings are bubbling from your own unconsciousness, from your own past. Nobody is responsible except you. Nobody can make you angry, and nobody can make you happy. <br> ![](images/osho-quote.png)
 - Mark Cuban
-  - Work like there is someone working 24 hours a day to take it all away from you! <br> ![](https://succeedfeed.com/wp-content/uploads/2016/12/mark-cuban-quote-work-like-24.jpg)
+  - Work like there is someone working 24 hours a day to take it all away from you! <br> ![](images/cuban-quote.webp)
 - William Shakespeare
-  - It is not in the stars to hold our destiny but in ourselves <br> ![](http://www.maxioms.com/uploads/quotes/r/p_1476293146_28156.jpg)
+  - It is not in the stars to hold our destiny but in ourselves <br> ![](images/shakespeare-quote.jpeg)
 - Mahatma Gandhi
-  - Strength does not come from winning. Your struggles develop your strengths. When you go through hardships and decide not to surrender, that is strength. <br> ![](https://i.ytimg.com/vi/aq2XqaPqQuE/maxresdefault.jpg)
+  - Strength does not come from winning. Your struggles develop your strengths. When you go through hardships and decide not to surrender, that is strength. <br> ![](images/Gandhi-quote.jpeg)
 - Albert Einstein
-  - Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning. <br> ![](https://www.azquotes.com/picture-quotes/quote-learn-from-yesterday-live-for-today-hope-for-tomorrow-the-important-thing-is-not-to-albert-einstein-8-72-83.jpg)
+  - Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning. <br> ![](images/einstein-quote.jpeg)
 - Marilyn Monroe
-  - I'm selfish, impatient and a little insecure. I make mistakes, I am out of control and, at times, hard to handle. But if you can't handle me at my worst, then you sure as hell don't deserve me at my best. <br> ![](https://images.gr-assets.com/quotes/1511992603p8/8630.jpg)
+  - I'm selfish, impatient and a little insecure. I make mistakes, I am out of control and, at times, hard to handle. But if you can't handle me at my worst, then you sure as hell don't deserve me at my best. <br> ![](images/monroe-quote.jpeg)
 - Keanu Reeves
-  - You have to change your life if you're not happy, and wake up if things aren't going the way you want. <br> ![](https://www.azquotes.com/vangogh-image-quotes/85/92/Quotation-Keanu-Reeves-You-have-to-change-your-life-if-you-re-not-85-92-94.jpg)
+  - You have to change your life if you're not happy, and wake up if things aren't going the way you want. <br> ![](images/reeves-quote.jpeg)
 - Muhammad Ali
-  - I hated every minute of training, but I said, ‘Don’t quit. Suffer now and live the rest of your life a champion. <br> ![](https://www.fearlessmotivation.com/wp-content/uploads/2017/08/ali-athlete-quotes-1024x536.jpg)
+  - I hated every minute of training, but I said, ‘Don’t quit. Suffer now and live the rest of your life a champion. <br> ![](images/ali-quote.jpeg)
 - Mahatma Gandhi
-  - In a gentle way, you can shake the world. <br> ![](https://www.azquotes.com/picture-quotes/quote-in-a-gentle-way-you-can-shake-the-world-mahatma-gandhi-10-58-52.jpg)
+  - In a gentle way, you can shake the world. <br> ![](images/gandhi-quote-2.jpeg)
 - Stephen Hawking
-  - However difficult life may seem, There is always something you can do and succeed at. <br> ![](https://www.azquotes.com/picture-quotes/quote-however-difficult-life-may-seem-there-is-always-something-you-can-do-and-succeed-at-stephen-hawking-80-99-68.jpg)
+  - However difficult life may seem, There is always something you can do and succeed at. <br> ![](images/hawking-quote.jpeg)
 - Albert Einstein
-  - The true sign of intelligence is not knowledge, but imagination. <br> ![](https://i.pinimg.com/originals/6e/80/95/6e8095fa4b9f7d54ba4f812028f3bc64.jpg)
+  - The true sign of intelligence is not knowledge, but imagination. <br> ![](images/einstein-quote-2.jpeg)
 - Edwin Markham
-  - For all the days prepare, and meet them ever alike. When you are the anvil, bear. When you are the hammer, strike. <br> ![](https://www.azquotes.com/picture-quotes/quote-for-all-your-days-be-prepared-and-meet-them-ever-alike-when-you-are-the-anvil-bear-when-edwin-markham-18-74-84.jpg)
+  - For all the days prepare, and meet them ever alike. When you are the anvil, bear. When you are the hammer, strike. <br> ![](images/markham-quote.jpeg)
 - Mark Twain
-  - The two most important days in your life are the day you are born and the day you find out why.<br> ![](https://static.boredpanda.com/blog/wp-content/uploads/2019/04/famous-people-inspiring-quotes-3b-5cb43958baf96__700.jpg)
+  - The two most important days in your life are the day you are born and the day you find out why.<br> ![](images/twain-quote.jpeg)
 - William Shakespeare
-  - No legacy is so rich as honesty. <br> ![](https://www.azquotes.com/picture-quotes/quote-no-legacy-is-so-rich-as-honesty-william-shakespeare-26-72-72.jpg)
+  - No legacy is so rich as honesty. <br> ![](images/shakespeare-quote-2.jpeg)
 - Jürgen Klopp
-  - I lost the last six finals I was in. They were hardly the best days of my life, but they didn't make me a broken person. For me, life is about trying again and again. <br> ![](https://pbs.twimg.com/media/D8NkGYHXkAApBgg.jpg)
+  - I lost the last six finals I was in. They were hardly the best days of my life, but they didn't make me a broken person. For me, life is about trying again and again. <br> ![](images/klopp-quote.jpeg)
 - Bruce Lee
-  - Empty your mind, be formless, shapeless — like water. Now you put water in a cup, it becomes the cup; You put water into a bottle it becomes the bottle; You put it in a teapot it becomes the teapot. Now water can flow or it can crash. Be water, my friend. <br> ![](https://themindsjournal.com/wp-content/uploads/2020/11/Empty-your-mind-be-formless-shapeless-like-water-1.jpg)
+  - Empty your mind, be formless, shapeless — like water. Now you put water in a cup, it becomes the cup; You put water into a bottle it becomes the bottle; You put it in a teapot it becomes the teapot. Now water can flow or it can crash. Be water, my friend. <br> ![](images/lee-quote.jpeg)
 - Socrates
-  - I cannot teach anybody anything, I can only make them think. <br> ![](https://live.staticflickr.com/5759/23059484096_7b09e7ae1f_b.jpg)
+  - I cannot teach anybody anything, I can only make them think. <br> ![](images/socrates-quote.jpeg)
 - Rick Warren
-  - Humility is not thinking less of yourself; it is thinking of yourself less. Humility is thinking more of others. <br> ![](https://www.azquotes.com/picture-quotes/quote-humility-is-not-thinking-less-of-yourself-it-is-thinking-of-yourself-less-humility-is-rick-warren-44-32-81.jpg)
+  - Humility is not thinking less of yourself; it is thinking of yourself less. Humility is thinking more of others. <br> ![](images/warren-quote.jpeg)
 - Ir. Soekarno
-  - Rose <b>never</b> propagandize its fragnant, but its own fragnant spreads through its surrounding. <br> ![](https://www.azquotes.com/picture-quotes/quote-rose-never-propagandize-its-fragrant-but-its-own-fragrance-spreads-through-its-surrounding-sukarno-109-63-43.jpg)
+  - Rose <b>never</b> propagandize its fragnant, but its own fragnant spreads through its surrounding. <br> ![](images/soekarno-quote.jpeg)
 - David Goggins
-  - Most people who are criticizing and judging haven't even tried what you failed at. <br> ![](https://succedict.com/wp-content/uploads/2020/06/david-goggins-quotes-2-1024x683.jpg?ezimgfmt=ng:webp/ngcb2)
+  - Most people who are criticizing and judging haven't even tried what you failed at. <br> ![](images/goggins-quote.jpeg)
 - Jimmy Dean
-  - I can’t change the direction of the wind, but I can adjust my sails to always reach my destination. <br> ![](http://www.power-living.com/blog/wp-content/uploads/2014/10/JimmyDeanSailcflatJ.jpg)
+  - I can’t change the direction of the wind, but I can adjust my sails to always reach my destination. <br> ![](images/dean-quote.jpeg)
 - Akshata Gunapache
   - Some stranger somewhere still remembers you because you were kind to them when no one else was. Be kind and spread love. <br> ![]()
 - Ecclesiastes 9:10
   - Whatever your hand finds to do, do it with all your might <br> ![]()
 - Stephen King
-  - The scariest moment is always right before you start. <br> ![](https://www.azquotes.com/picture-quotes/quote-the-scariest-moment-is-always-just-before-you-start-stephen-king-35-71-97.jpg)
+  - The scariest moment is always right before you start. <br> ![](images/king-quote.jpeg)
 - Steve Jobs
-  - Your time is limited. Don't waste it living someone else's life. <br> ![](https://fossbytes.com/wp-content/uploads/2017/02/steve.png)
+  - Your time is limited. Don't waste it living someone else's life. <br> ![](images/jobs-quote-2.png)
 - Hellen Keller
-  - Life is either a daring adventure, or nothing at all. <br> ![](https://www.azquotes.com/picture-quotes/quote-life-is-a-daring-adventure-or-nothing-helen-keller-53-8-0856.jpg)
+  - Life is either a daring adventure, or nothing at all. <br> ![](images/keller-quote.jpeg)
 - Winston Churchill
-  - Attitude is a little thing thats makes a big difference. <br> ![](https://www.azquotes.com/picture-quotes/quote-attitude-is-a-little-thing-that-makes-a-big-difference-winston-churchill-5-62-96.jpg)
+  - Attitude is a little thing thats makes a big difference. <br> ![](images/churchill-quote.jpeg)
 - C.S. Lewis
-  - You can't go back and change the beginning, but you can start where you are and change the ending. <br> ![](https://www.azquotes.com/picture-quotes/quote-you-can-t-go-back-and-change-the-beginning-but-you-can-start-where-you-are-and-change-c-s-lewis-133-40-84.jpg)
+  - You can't go back and change the beginning, but you can start where you are and change the ending. <br> ![](images/lewis-quote.jpeg)
 - Richard Branson
-  - My biggest motivation? Just to keep challenging myself. I see life almost like one long University education that I never had - every day I'm learning something new. <br> ![](https://www.azquotes.com/picture-quotes/quote-my-biggest-motivation-just-to-keep-challenging-myself-i-see-life-almost-like-one-long-richard-branson-58-29-74.jpg)
+  - My biggest motivation? Just to keep challenging myself. I see life almost like one long University education that I never had - every day I'm learning something new. <br> ![](images/bronson-quote.jpeg)
 - Thomas Alva Edison
-  - Many of life's failures are people who did not realize how close they were to success when they gave up. <br> ![](https://www.azquotes.com/picture-quotes/quote-many-of-life-s-failures-are-people-who-did-not-realize-how-close-they-were-to-success-thomas-a-edison-8-65-00.jpg)
+  - Many of life's failures are people who did not realize how close they were to success when they gave up. <br> ![](images/edison-quote-2.jpeg)
 - Bob Ross
-  - As long as you are learning you are not failing. <br> ![](https://www.brianhousand.com/uploads/2/4/2/8/2428164/767912407_orig.jpg)
+  - As long as you are learning you are not failing. <br> ![](images/ross-quote.jpeg)
 - Elon Musk
-  - Persistence is very important. You should not give up unless you are forced to give up. <br> ![](https://www.azquotes.com/picture-quotes/quote-persistence-is-very-important-you-should-not-give-up-unless-you-are-forced-to-give-up-elon-musk-70-56-73.jpg)
+  - Persistence is very important. You should not give up unless you are forced to give up. <br> ![](images/musk-quote.jpeg)
 - Christopher Robbins (said to Winnie the Pooh)
-  - You are braver than you believe, and stronger than you seem and smarter than you think. <br> ![](https://avemateiu.com/wp-content/uploads/2018/10/quote-109.jpg)
+  - You are braver than you believe, and stronger than you seem and smarter than you think. <br> ![](images/robin-quote.jpeg)
 - Winston Churchill
-  - Success is not final, failure is not fatal: it is the courage to continue that counts. <br> ![](https://www.azquotes.com/picture-quotes/quote-success-is-not-final-failure-is-not-fatal-it-is-the-courage-to-continue-that-counts-winston-churchill-5-62-84.jpg)
+  - Success is not final, failure is not fatal: it is the courage to continue that counts. <br> ![](images/churchill-quote-2.jpeg)
 - Babe Ruth
-  - Never let the fear of striking out, keep you from playing the game. <br> ![](https://i5.walmartimages.com/asr/594bbd04-237a-4903-8219-4a965b3bf7a6.8cf9ce46f02aea1317617849eb594970.jpeg)
+  - Never let the fear of striking out, keep you from playing the game. <br> ![](images/ruth-quote.webp)
 - John Johnson
   - First, solve the problem. Then, write the code. <br> ![](https://nitter.pussthecat.org/pic/orig/media%2FBbp5ZNxCIAAZIIm.png)
 - Steve Jobs
-  - Innovation distinguishes between a leader and a follower. <br> ![](https://pbs.twimg.com/media/E2x_2U2XEAEOPaS?format=jpg)
+  - Innovation distinguishes between a leader and a follower. <br> ![](images/jobs-quote-3.jpeg)
 - Bill Gates
-  - It's fine to celebrate success, but it is more important to heed the lessons of failure. <br> ![](https://www.azquotes.com/picture-quotes/quote-it-s-fine-to-celebrate-success-but-it-is-more-important-to-heed-the-lessons-of-failure-bill-gates-10-73-17.jpg)
+  - It's fine to celebrate success, but it is more important to heed the lessons of failure. <br> ![](images/gates-quote.jpeg)
 - Imran Khan
-  - Leaders leads people. Leader does not follow public opinion. <br> ![](https://quotefancy.com/media/wallpaper/800x450/6442708-Imran-Khan-Quote-Leader-leads-people-Leader-does-not-follow-public.jpg)
+  - Leaders leads people. Leader does not follow public opinion. <br> ![](images/khan-quote.jpeg)
 - Robert H. Schuller
-  - Tough times never last, but tough people do. <br> ![](http://files.planetofsuccess.com/blog/wp-content/uploads/2015/10/tough-times1.jpg)
+  - Tough times never last, but tough people do. <br> ![](images/schuller-quote.jpeg)
 - Confucius
-  - Our greatest glory is not in never falling, but in rising every time we fall. <br> ![](https://motivationping.com/wp-content/uploads/2017/10/motivational-inspirational-quotes-41.jpg)
+  - Our greatest glory is not in never falling, but in rising every time we fall. <br> ![](images/confucius-quote.webp)
 - M.S.Dhoni
-  - No matter what profession you are into, always give your 100% commitment to your work. Because it’s not always about winning the game! It’s about the work satisfaction in the end. <br> ![](https://cricketislifes.com/ezoimgfmt/i0.wp.com/cricketislifes.com/wp-content/uploads/2019/08/%E2%80%9CNo-matter-what-profession-you-are-into-always-give-your-100-commitment-to-your-work.-Because-it%E2%80%99s-not-always-about-winning-the-game-It%E2%80%99s-about-work-satisfaction-in-the-end.-%E2%80%9C.jpg)
+  - No matter what profession you are into, always give your 100% commitment to your work. Because it’s not always about winning the game! It’s about the work satisfaction in the end. <br> ![](images/dhoni-quote.webp)
 - Walt Disney
-  - All your dreams can come true if you have the courage to pursue them. <br> ![](https://www.azquotes.com/picture-quotes/quote-all-your-dreams-can-come-true-if-you-have-the-courage-to-pursue-them-walt-disney-7-91-62.jpg)
+  - All your dreams can come true if you have the courage to pursue them. <br> ![](images/disney-quote.jpeg)
 - Epictetus
-  - First say to yourself what you would be; and then do what you have to do. <br> ![](https://www.azquotes.com/picture-quotes/quote-first-say-to-yourself-what-you-would-be-and-then-do-what-you-have-to-do-epictetus-9-2-0289.jpg)
+  - First say to yourself what you would be; and then do what you have to do. <br> ![](images/epictetus-quote.jpeg)
 - Dwayne Johnson
-  - Success isn't always about greatness. It's about consistency. Consistent hard work leads to success. Greatness will come. <br> ![](https://www.projectmanager.com/wp-content/uploads/2018/10/Consistency_Johnson.jpg)
+  - Success isn't always about greatness. It's about consistency. Consistent hard work leads to success. Greatness will come. <br> ![](images/johnson-quote.jpeg)
 - Wayne Gretzky
-  - You miss 100 percent of the shots you don't take. <br> ![](https://www.azquotes.com/picture-quotes/quote-you-miss-100-of-the-shots-you-don-t-take-wayne-gretzky-11-73-09.jpg)
+  - You miss 100 percent of the shots you don't take. <br> ![](images/gretzky-quote.jpeg)
 - Robert Downey Junior
-  - Do I want to be a hero to my son? No, I would like to be a very real human being. That’s hard enough. <br> ![](https://static.india.com/wp-content/uploads/2017/06/Robert-Downey-Jr-1.jpg)
+  - Do I want to be a hero to my son? No, I would like to be a very real human being. That’s hard enough. <br> ![](images/downey-quote.avif)
 - Jeon Jungkook (BTS)
-  - Effort makes you. You will regret someday if you don't do your best now. Don't think it's too late but keep working on it. It may take time, but there's nothing that gets worse due to practicing. So practice. You may get depressed but it's evidence that you are doing good. <br> ![](https://pm1.narvii.com/6905/34f29841c9fc0b7cc4b7fa405e770df8ed50c6e6r1-940-788v2_hq.jpg)
+  - Effort makes you. You will regret someday if you don't do your best now. Don't think it's too late but keep working on it. It may take time, but there's nothing that gets worse due to practicing. So practice. You may get depressed but it's evidence that you are doing good. <br> ![](images/jungkook-quote.jpeg)
 - Kobe Bryant
-  - If you're afraid to fail, then you're probably going to fail. <br> ![](https://addicted2success.com/wp-content/uploads/2016/01/Kobe-Bryant-2.jpg)
+  - If you're afraid to fail, then you're probably going to fail. <br> ![](images/kobe-quote.jpeg)
 - Alan Watts
-  - Waking up to who you are requires letting go of who you imagine yourself to be. <br> ![](https://www.azquotes.com/picture-quotes/quote-waking-up-to-who-you-are-requires-letting-go-of-who-you-imagine-yourself-to-be-alan-watts-59-21-09.jpg)
+  - Waking up to who you are requires letting go of who you imagine yourself to be. <br> ![](images/watts-quote.jpeg)
 
 ## Songs
 
